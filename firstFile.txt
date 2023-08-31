@@ -1,4 +1,4 @@
-firstFile:line1 -- git_1 -- folder2
+firstFile:line1 -- git_1 -- folder2 -- new change
 firstFile:line2 -- git_1 -- folder2
 firstFile:line3
 firstFile:line4 -- git_1 -- 1
