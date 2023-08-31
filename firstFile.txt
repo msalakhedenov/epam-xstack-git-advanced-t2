@@ -1,8 +1,8 @@
-firstFile:line1 -- git_1
-firstFile:line2 -- git_1
+firstFile:line1
+firstFile:line2
 firstFile:line3
-firstFile:line4 -- git_1 -- 1
-firstFile:line5 -- git_1 -- 1
+firstFile:line4
+firstFile:line5
 firstFile:line6
 firstFile:line7
 firstFile:line8
