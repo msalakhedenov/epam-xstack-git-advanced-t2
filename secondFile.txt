@@ -1,5 +1,8 @@
 secondFile:line1 -- git_1
 secondFile:line2 -- git_1
+=======
+secondFile:line1 -- git_2
+secondFile:line2 -- git_2
 secondFile:line3
 secondFile:line4
 secondFile:line5
