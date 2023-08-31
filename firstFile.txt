@@ -5,6 +5,6 @@ firstFile:line4 -- git_1 -- 1
 firstFile:line5 -- git_1 -- 1
 firstFile:line6
 firstFile:line7 -- git_1 -- folder1
-firstFile:line8 -- git_1 -- folder2
+firstFile:line8 -- git_1 -- folder1
 firstFile:line9
-firstFile:line10
+firstFile:line10 -- git_1 -- folder1
